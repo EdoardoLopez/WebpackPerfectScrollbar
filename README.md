@@ -1,0 +1,3 @@
+- move /assets dir
+- Run 'yarn install'
+- run 'npx webpack --config webpack.config.js'
